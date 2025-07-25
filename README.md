@@ -1,5 +1,5 @@
 # Pulmonary-Disease-Classification-using-Deep-Learning-Techniques
-Introduction
+# Introduction
 In recent years, medical imaging and deep learning have made significant strides in diagnosing diseases, especially in the field of pulmonary health. This project aims to build an automated classification system using ResNet50, a deep convolutional neural network, to distinguish between Pneumonia and Tuberculosis (TB) in chest X-ray images. This classification system aims to support healthcare professionals in their diagnosis by providing fast, accurate, and reliable predictions.
 
 The Challenge
